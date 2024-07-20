@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository ("prework-study-guide") is where I (Mitchell Klein) have developed a study guide for content covered in the prework course. My motivation is to create a central location for my notes on HTML, CSS, Git, and JavaScript that I can easily add to and refer to throughout the Coding Bootcamp. This study guide will allow me to work through problems more efficiently. The creation of this study guide has introduced me to Git and further developed my understanding of JavaScript. 
+This repository ("prework-study-guide") is where I have developed a study guide for content covered in the prework course. My motivation is to create a central location for my notes on HTML, CSS, Git, and JavaScript that I can easily add to and refer to throughout the Coding Bootcamp. This study guide will allow me to work through problems more efficiently. The creation of this study guide has introduced me to Git and further developed my understanding of JavaScript. 
 
 ## Installation
 
